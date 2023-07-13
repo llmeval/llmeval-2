@@ -91,4 +91,4 @@ $score_{ai}$为该模型在第$i$个学科中的实际得分, $score_{fi}$为第
 
 
 ## 附完整报告
-
+https://github.com/llmeval/llmeval-2/blob/master/LLMEVAL-2.pdf
