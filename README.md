@@ -1,6 +1,6 @@
 # LLMEVAL-2 中文大语言模型评测第二期
 
-![image](https://github.com/llmeval/llmeval-2/blob/master/llmeval-logo.png)
+![image](LLMEVAL-logo.png)
 
 
 
@@ -80,7 +80,7 @@ LLMEVAL-1已经告一段落，有大量的公众用户参与了进来，为我�
 
 总分计算公式：
 
-$$ 
+$$
 总分=\frac 1 n \sum_{i=1}^n score_i 
 $$
 
@@ -95,5 +95,5 @@ $score_{ai}$ 为该模型在第 $i$ 个学科中的实际得分, $score_{fi}$ �
 
 
 
-## 附完整报告
+## 完整报告
 https://github.com/llmeval/llmeval-2/blob/master/LLMEVAL-2.pdf
