@@ -87,7 +87,7 @@ $$
 其中
 
 $$
-score_i=\frac{score_{ai}}{score_{fi}}
+score_i=\frac{score_{ai}}{score_{fi}}\times 100
 $$
 
 $score_{ai}$ 为该模型在第 $i$ 个学科中的实际得分, $score_{fi}$ 为第 $i$ 个学科的总分.
