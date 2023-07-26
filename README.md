@@ -1,6 +1,6 @@
 # LLMEVAL-2 中文大语言模型评测第二期
 
-![image](LLMEVAL-logo.png)
+![image](llmeval-logo.png)
 
 
 
