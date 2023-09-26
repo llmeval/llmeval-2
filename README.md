@@ -92,19 +92,17 @@ $$
 
 $score_{ai}$ 为该模型在第 $i$ 个学科中的实际得分, $score_{fi}$ 为第 $i$ 个学科的总分.
 
+## 完整报告
+https://github.com/llmeval/llmeval-2/blob/master/LLMEVAL-2.pdf
+
 ## Citation
 If you find this repository useful, please cite our project:
 ```
 @misc{LLMEval2,
-  author = {Ming Zhang and Yue Zhang and Shichun Liu and Haipeng Yuan and Junzhe Wang and Qi Zhang and Tao Gui},
+  author = {Ming Zhang and Yue Zhang and Shichun Liu and Haipeng Yuan and Junzhe Wang and Yurui Dong and Jingyi Deng and Tao Gui and Qi Zhang and Xuanjing Huang},
   title = {{LLMEval-2}},
   year = {2023},
   month = {July},
-  url = {https://github.com/llmeval/llmeval-1},
+  url = {https://github.com/llmeval/llmeval-2},
 }
 ```
-
-
-
-## 完整报告
-https://github.com/llmeval/llmeval-2/blob/master/LLMEVAL-2.pdf
