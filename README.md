@@ -100,7 +100,7 @@ If you find this repository useful, please cite our project:
   title = {{LLMEval-2}},
   year = {2023},
   month = {July},
-  howpublished = {\url{https://github.com/llmeval/llmeval-1}},
+  url = {https://github.com/llmeval/llmeval-1},
 }
 ```
 
